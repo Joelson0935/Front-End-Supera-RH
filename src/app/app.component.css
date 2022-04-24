@@ -1,0 +1,97 @@
+.main {
+  width: 60%;
+  height: 300px;
+  display: inline-flex;
+  margin-left: 20%;
+  background-color: aliceblue;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+
+.dataDoInicio {
+  padding: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  height: 100%;
+}
+
+.dataDoInicio .inicio {
+  margin-right: 20px;
+  height: 30px;
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+.dataDoInicio input {
+  margin-top: 30%;
+  height: 20px;
+}
+
+.dataDoFim {
+  padding: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  height: 100%;
+}
+
+.nomeOperador {
+  padding: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  height: 100%;
+}
+
+.nomeOperador label {
+  margin-right: 20px;
+  height: 30px;
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+.nomeOperador input {
+  margin-top: 30%;
+  height: 20px;
+}
+
+.button {
+  padding: 10px;
+  box-sizing: border-box;
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+}
+
+.button button {
+  width: 120px;
+  height: 25px;
+  cursor: pointer;
+}
+
+.tabela {
+  width: 60%;
+  height: 400px;
+  margin-left: 20%;
+  margin-top: 25px;
+  font-size: 25px;
+}
+
+.tabela th {
+  background-color: antiquewhite;
+  text-align: center;
+  height: 30px;
+}
+.tabela tr {
+  background-color: antiquewhite;
+  height: 15px;
+}
+
+.tabela tr td {
+  text-align: center;
+}
+
+
